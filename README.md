@@ -6,8 +6,6 @@
 
 
 - 📫 How to reach me **itzhonglang@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
@@ -18,5 +16,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zhonglang&show_icons=true&locale=en" alt="zhonglang" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zhonglang&" alt="zhonglang" /></p>
 
