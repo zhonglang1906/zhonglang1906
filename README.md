@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Zhong Lang</h1>
+<h1 align="center">Hi 👋, I'm Zhonglang</h1>
 <h3 align="center">A passionate developer from China</h3>
-<h4 align="center">交友、分享！欢迎来找我玩啊！</h4>
+<h4 align="center">Stand With Ukraine!</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zhonglang&label=Profile%20views&color=0e75b6&style=flat" alt="zhonglang" /> </p>
 
 
